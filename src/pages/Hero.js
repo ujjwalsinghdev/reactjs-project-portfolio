@@ -8,8 +8,8 @@ const Hero = () => {
   return (
     <div className="hero">
       <div className="hero-text">
-        <h1>React Projects</h1>
-        <h3>Production Ready Projects That I Have Developed</h3>
+        <h2>ReactJS Project Highlights</h2>
+        <h4>Over the last 3+ I have worked on several interesting projects, Below is a small selection of those that have made a significant impact on me as a developer.</h4>
       </div>
       <div className="hero-img">
         <img src={dev} alt="" />

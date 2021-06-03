@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+p{
+  text-transform:inherit;
+}
+
 .project-section {
   background: var(--secondary-color);
   margin: 0 auto;
@@ -46,8 +50,8 @@
 
 .project-details h4 {
   margin: 0.8rem 0;
-  text-transform: uppercase;
   color:#595959;
+  line-height: 1.5;
 }
 
 .project-details p {
