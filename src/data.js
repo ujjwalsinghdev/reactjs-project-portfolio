@@ -5,7 +5,7 @@ const data = [
     img: "./image/project-10.png",
     skills:
       "HTML & CSS, JavaScript, ReactJS, React-Icons, React-Router-DOM, React Hooks, Axious, State Management (Context & Reducer), Stripe-Payment API, styled-components, auth0, Git, Terminal, Netlify.",
-    desc: "ReactJS Ecommerce full functional Webapp with user authentication using auth0, stripe payment gateway is integrated for a smooth transaction.",
+    desc: "Ecommerce app with user authentication using auth0, stripe payment gateway, list & grid view with multiple filter inputs.",
     level: "expert",
     url: "https://reactjs-premium-furniture-store.netlify.app/products"
   },
@@ -15,7 +15,7 @@ const data = [
     img: "./image/project-20.png",
     skills:
       "HTML & CSS, JavaScript, ReactJS, React-Icons, React Hooks, React-Router-DOM, State Management (Context & Reducer), Git, Terminal, Netlify.",
-    desc: "ReactJS Resort Booking App that list resort with specific routing for each page details.",
+    desc: "Resort Booking App that list resort with specific routing for each page details.",
     level: "expert",
     url: "https://reactjs-resortbooking-app.netlify.app/"
   },

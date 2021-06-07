@@ -15,7 +15,7 @@ const Project = ({ stacks }) => {
             </div>
             <div className="project-details">
               <h3> 👉🏻 {title}</h3>
-              <p> 📋 {desc}</p>
+              <p> 📋 Feature : {desc}</p>
               <p> ✅ proficiency level : {level}</p>
               <hr />
               <h3> &#8594; Tech Stack Used :</h3>

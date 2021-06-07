@@ -5,7 +5,7 @@ import "./Footer.css"
 const Footer = () => {
   return (
     <div className="section-footer">
-      <h4>contact @ ujjwalsinghux@gmail.com</h4>
+      <h4>contact @ ujjwalsingh.dev@gmail.com</h4>
     </div>
   )
 }
